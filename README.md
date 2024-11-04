@@ -6,10 +6,6 @@ Here’s a README file for your Flutter profile page app that includes all essen
 
 A simple and elegant BLog Application built with Flutter. This project showcases fundamental Flutter widgets to create a clean profile layout, featuring a circular avatar, user information, contact details, and action buttons. Ideal for beginners and developers looking to understand basic Flutter UI concepts and design a profile page.
 
-## 📱 Screenshots
-
-*(Add screenshots here to visually represent the app)*
-
 ## ✨ Features
 
 - **Circular Profile Picture**: Displayed using a `CircleAvatar` widget.
