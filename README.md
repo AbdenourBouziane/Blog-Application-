@@ -2,9 +2,9 @@ Here’s a README file for your Flutter profile page app that includes all essen
 
 ---
 
-# Flutter Profile Page UI
+# Flutter Blog Application UI
 
-A simple and elegant profile page interface built with Flutter. This project showcases fundamental Flutter widgets to create a clean profile layout, featuring a circular avatar, user information, contact details, and action buttons. Ideal for beginners and developers looking to understand basic Flutter UI concepts and design a profile page.
+A simple and elegant BLog Application built with Flutter. This project showcases fundamental Flutter widgets to create a clean profile layout, featuring a circular avatar, user information, contact details, and action buttons. Ideal for beginners and developers looking to understand basic Flutter UI concepts and design a profile page.
 
 ## 📱 Screenshots
 
